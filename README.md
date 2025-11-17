@@ -65,11 +65,13 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 
 **Isolation measurement** 
 
-<img width="1076" height="204" alt="image" src="https://github.com/user-attachments/assets/b0a66c66-3f43-4da7-aa8b-ea7dbfe78f60" />
+<img width="1280" height="405" alt="image" src="https://github.com/user-attachments/assets/136a285f-e476-4a7e-8b4d-bbcf8f7ba0cd" />
+
 
 **Measurement of power division** 
 
-<img width="1080" height="224" alt="image" src="https://github.com/user-attachments/assets/d7046894-3557-4fc1-a1cc-adc3e34f5625" />
+<img width="1108" height="188" alt="image" src="https://github.com/user-attachments/assets/d6e99a41-016e-4e89-a9e0-75fe0ca68896" />
+
 
 **G.	Analysis of Results:**
 
@@ -78,7 +80,8 @@ Isolation = A₁ − A₂ = 20.0 − 1.0 = 19.0 dB. Interpretation: only ~1/79 o
 **H.	Conclusions: (Write your Own)**
 
 Isolation between E and H arms (dB) = (A1 – A2) dB
-Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
+
+Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB = 716mV
 
 **Precautions:**
 
