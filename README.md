@@ -68,7 +68,7 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 <img width="1280" height="405" alt="image" src="https://github.com/user-attachments/assets/136a285f-e476-4a7e-8b4d-bbcf8f7ba0cd" />
 
 
-**Measurement of power division** 
+**Measurement of power division**  
 
 <img width="1108" height="188" alt="image" src="https://github.com/user-attachments/assets/d6e99a41-016e-4e89-a9e0-75fe0ca68896" />
 
